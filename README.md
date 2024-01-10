@@ -1,5 +1,5 @@
-# ketam-automates
-repository for automation scripts
+# ketam-automates :crab:
+repository for automation scripts 
 
 | Script Names | Description |
 | ----------- | ----------- |

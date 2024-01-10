@@ -2,7 +2,8 @@
 # Description : Delete (1) file in the directory
 # Author : https://github.com/yusrinayusri
 # Updates : 
-#   7-Jan-2024 : Initial commit
+#   7-Jan-2024  : Initial commit
+#   10-Jan-2024 : Follow pep-8 style guide for file naming
 ######
 import os
 import sys

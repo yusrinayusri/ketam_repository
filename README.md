@@ -6,3 +6,8 @@ repository for automation scripts
 | delete_file.py v1| Literally delete 1 specified file (it was fun writing this script.) `python3 delete_file.py <your file path here>`|
 | sort_file.py v1| Sorts files into dedicated folders, leaving your space clean and organized.  `python3 sort_file.py <your path here>` |
 | search_log.py v1 | Search log file for lines containing the keyword. `python3 search_log.py <file path> <keyword>` |
+
+### To install the requirements using pip
+```python
+pip3 install -r requirements.txt
+```

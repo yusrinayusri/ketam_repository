@@ -1,0 +1,17 @@
+# Environments
+.env
+.venv
+env/
+myenv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary files/folders
+for__optimization/
+
+#Others
+.DS_Store
+src/.DS_Store

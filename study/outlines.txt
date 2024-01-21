@@ -1,0 +1,75 @@
+Data Structures:
+Arrays and Lists:
+Understanding arrays and Python lists.
+Operations on arrays/lists.
+Dynamic arrays.
+Linked Lists:
+Singly linked lists.
+Doubly linked lists.
+Circular linked lists.
+Operations on linked lists.
+Stacks:
+Understanding stacks.
+Implementing a stack in Python.
+Common applications (e.g., expression evaluation).
+Queues:
+Understanding queues.
+Implementing a queue in Python.
+Priority queues.
+Trees:
+Binary trees.
+Binary search trees (BST).
+Balanced trees (AVL, Red-Black).
+Tree traversal algorithms (in-order, pre-order, post-order).
+Graphs:
+Graph representations (adjacency matrix, adjacency list).
+Graph traversal algorithms (DFS, BFS).
+Shortest path algorithms (Dijkstra's, Bellman-Ford).
+Hashing:
+Understanding hash functions.
+Hash tables.
+Collision resolution techniques.
+Heaps:
+Understanding heaps.
+Binary heaps.
+Heap operations.
+
+Algorithms:
+Searching Algorithms:
+Linear search.
+Binary search.
+Hash-based searching.
+Sorting Algorithms:
+Bubble sort.
+Selection sort.
+Insertion sort.
+Merge sort.
+Quick sort.
+Heap sort.
+Dynamic Programming:
+Understanding dynamic programming.
+Memoization and tabulation.
+Examples: Fibonacci sequence, Longest Common Subsequence.
+Greedy Algorithms:
+Understanding greedy algorithms.
+Examples: Dijkstra's algorithm, Kruskal's algorithm.
+Divide and Conquer:
+Understanding divide and conquer.
+Examples: Binary search, Merge sort.
+Backtracking:
+Understanding backtracking.
+Examples: N-Queens problem, Sudoku.
+Additional Concepts:
+Complexity Analysis:
+Big O notation.
+Time and space complexity.
+Recursion:
+Understanding recursion.
+Recursive algorithms.
+Bit Manipulation:
+Understanding bitwise operations.
+Bitwise algorithms.
+Randomized Algorithms:
+Understanding randomized algorithms.
+Parallel Algorithms:
+Basics of parallel algorithms.

@@ -1,5 +1,5 @@
-#basic modules required
-tkinter
+#tkinter
 customtkinter
 pytube
 Pillow
+requests
